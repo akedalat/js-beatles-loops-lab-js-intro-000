@@ -10,7 +10,7 @@ return arr;
 function johnLennonFacts (facts){
 let i = 0
   while (i < facts.length) {
-    facts.push (`${facts[i]} !!!`)
+    facts [i] = (`${facts[i]} !!!`)
   }
 return facts
 }
