@@ -10,6 +10,5 @@ function theBeatlesPlay(musicians, instruments) {
       case i = 2:
         arr.push (musicians[2], ' plays ', instruments[2])
         break;
-      break;
   return arr
 }
